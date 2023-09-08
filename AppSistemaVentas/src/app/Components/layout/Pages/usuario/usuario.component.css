@@ -1,0 +1,14 @@
+.dashboard-card-content{
+    padding: 3px;
+    margin: 10px;
+
+}
+
+table{
+    width: 100%;
+}
+
+mat-form-field{
+    width: 100%;
+    font-size: 14px;
+}
